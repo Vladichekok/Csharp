@@ -1,0 +1,8 @@
+C:\Users\Влад\Desktop\Новая папка\lab2\bin\Debug\lab2.exe.config
+C:\Users\Влад\Desktop\Новая папка\lab2\bin\Debug\lab2.exe
+C:\Users\Влад\Desktop\Новая папка\lab2\bin\Debug\lab2.pdb
+C:\Users\Влад\Desktop\Новая папка\lab2\obj\Debug\lab2.csproj.AssemblyReference.cache
+C:\Users\Влад\Desktop\Новая папка\lab2\obj\Debug\lab2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Влад\Desktop\Новая папка\lab2\obj\Debug\lab2.csproj.CoreCompileInputs.cache
+C:\Users\Влад\Desktop\Новая папка\lab2\obj\Debug\lab2.exe
+C:\Users\Влад\Desktop\Новая папка\lab2\obj\Debug\lab2.pdb
