@@ -1,0 +1,8 @@
+C:\Users\Влад\Desktop\Новая папка\lab3\bin\Debug\lab3.exe.config
+C:\Users\Влад\Desktop\Новая папка\lab3\bin\Debug\lab3.exe
+C:\Users\Влад\Desktop\Новая папка\lab3\bin\Debug\lab3.pdb
+C:\Users\Влад\Desktop\Новая папка\lab3\obj\Debug\lab3.csproj.AssemblyReference.cache
+C:\Users\Влад\Desktop\Новая папка\lab3\obj\Debug\lab3.csproj.SuggestedBindingRedirects.cache
+C:\Users\Влад\Desktop\Новая папка\lab3\obj\Debug\lab3.csproj.CoreCompileInputs.cache
+C:\Users\Влад\Desktop\Новая папка\lab3\obj\Debug\lab3.exe
+C:\Users\Влад\Desktop\Новая папка\lab3\obj\Debug\lab3.pdb
