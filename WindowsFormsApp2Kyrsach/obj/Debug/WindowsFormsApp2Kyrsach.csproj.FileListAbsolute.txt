@@ -1,0 +1,16 @@
+C:\Users\Влад\Desktop\buton\WindowsFormsApp2Kyrsach\obj\Debug\WindowsFormsApp2Kyrsach.csproj.AssemblyReference.cache
+C:\Users\Влад\Desktop\buton\WindowsFormsApp2Kyrsach\obj\Debug\WindowsFormsApp2Kyrsach.csproj.SuggestedBindingRedirects.cache
+C:\Users\Влад\Desktop\buton\WindowsFormsApp2Kyrsach\obj\Debug\WindowsFormsApp2Kyrsach.Form1.resources
+C:\Users\Влад\Desktop\buton\WindowsFormsApp2Kyrsach\obj\Debug\WindowsFormsApp2Kyrsach.Properties.Resources.resources
+C:\Users\Влад\Desktop\buton\WindowsFormsApp2Kyrsach\obj\Debug\WindowsFormsApp2Kyrsach.csproj.GenerateResource.cache
+C:\Users\Влад\Desktop\buton\WindowsFormsApp2Kyrsach\obj\Debug\WindowsFormsApp2Kyrsach.csproj.CoreCompileInputs.cache
+C:\Users\Влад\Desktop\buton\WindowsFormsApp2Kyrsach\bin\Debug\WindowsFormsApp2Kyrsach.exe.config
+C:\Users\Влад\Desktop\buton\WindowsFormsApp2Kyrsach\bin\Debug\WindowsFormsApp2Kyrsach.exe
+C:\Users\Влад\Desktop\buton\WindowsFormsApp2Kyrsach\bin\Debug\WindowsFormsApp2Kyrsach.pdb
+C:\Users\Влад\Desktop\buton\WindowsFormsApp2Kyrsach\obj\Debug\WindowsFormsApp2Kyrsach.exe
+C:\Users\Влад\Desktop\buton\WindowsFormsApp2Kyrsach\obj\Debug\WindowsFormsApp2Kyrsach.pdb
+C:\Users\Влад\Desktop\buton\WindowsFormsApp2Kyrsach\bin\Debug\MathNet.Numerics.dll
+C:\Users\Влад\Desktop\buton\WindowsFormsApp2Kyrsach\bin\Debug\System.ValueTuple.dll
+C:\Users\Влад\Desktop\buton\WindowsFormsApp2Kyrsach\bin\Debug\MathNet.Numerics.xml
+C:\Users\Влад\Desktop\buton\WindowsFormsApp2Kyrsach\bin\Debug\System.ValueTuple.xml
+C:\Users\Влад\Desktop\buton\WindowsFormsApp2Kyrsach\obj\Debug\WindowsFormsApp2Kyrsach.csproj.CopyComplete
